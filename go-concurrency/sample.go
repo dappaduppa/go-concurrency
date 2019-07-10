@@ -1,4 +1,4 @@
-package go_concurrency
+package main
 
 import "fmt"
 
